@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /papers/
-title: working papers
+title: Working Papers
 description: Below you can find my working papers. 
 nav: true
 nav_order: 3
