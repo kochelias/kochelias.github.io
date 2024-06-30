@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /papers/
+permalink: /workingpapers/
 title: Working Papers
 description: Below you can find my working papers. 
 nav: true
